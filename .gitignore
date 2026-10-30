@@ -1,0 +1,7 @@
+
+.venv/
+__pycache__/
+*.pyc
+heritage_rag_data/
+.streamlit/secrets.toml
+.env
