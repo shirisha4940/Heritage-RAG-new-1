@@ -57,8 +57,7 @@ The ChromaDB folder is created locally when the application runs.
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-```
+git clone https://github.com/shirisha4940/Heritage-RAG-new-1
 
 ### 2. Open the Project Folder
 
